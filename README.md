@@ -28,8 +28,8 @@ Check the Releases section and download the appropriate precompiled binary for y
 
 ### Available Releases
 
-- [Linux AMD64 (x86_64)]()
-- [Windows 10 / 11 (x86_64)]()
+- [Linux AMD64 (x86_64)](https://github.com/m4l4v1t4/rsa-neural-decrypt/releases/download/v1.1.0/rsa_neural-amd64)
+- [Windows 10 / 11 (x86_64)](https://github.com/m4l4v1t4/rsa-neural-decrypt/releases/download/v1.1.0/rsa_neural.exe)
 
 ### Linux
 
