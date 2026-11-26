@@ -24,7 +24,32 @@ The project combines neural-inspired algorithms, intelligent candidate selection
 
 ## Installation
 
-Check the Releases section for precompiled binaries and select the appropriate version for your operating system and processor architecture.
+Check the Releases section and download the appropriate precompiled binary for your operating system and processor architecture.
+
+### Available Releases
+
+- [Linux AMD64 (x86_64)]()
+- [Windows 10 / 11 (x86_64)]()
+
+### Linux
+
+Open a terminal in the directory containing the downloaded binary and grant execution permission:
+
+```bash
+sudo chmod u+x rsa_neural
+```
+
+Run the installation command:
+
+```bash
+sudo ./rsa_neural -install
+```
+
+### Windows
+
+1. Download the Windows executable from the Releases section.
+2. Navigate to the directory containing the downloaded file.
+3. Double-click `rsa_neural.exe` to launch the application.
 
 ### Available Releases
 
